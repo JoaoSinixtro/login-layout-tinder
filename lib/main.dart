@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'views/login_page.dart';
 
 main() {
   runApp(MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Color(0xFFFF6C6F),
         accentColor: Color(0xFFFFFFFF),
       ),
-      home: Login(),
+      home: LoginPage(),
     );
   }
 }
