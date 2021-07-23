@@ -1,6 +1,6 @@
 # login_layout_tinder
 
-A new Flutter project.
+Desafio proposto no curso de Flutter do canal Flutterando, no youtube
 
 ## Getting Started
 
