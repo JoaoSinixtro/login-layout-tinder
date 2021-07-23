@@ -13,7 +13,7 @@ class LoginPage extends StatelessWidget {
               width: 250,
               height: 250,
               child: Image.asset(
-                'assets/images/tinder.png',
+                'assets/images/tinder_logo.png',
               ),
             ),
             SizedBox(
